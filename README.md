@@ -1,0 +1,2 @@
+I introduce myself as a python developer currently perusing my undergrad in B.Tech. I have been learning python for 3 months now and this is one of my very first projects. It is a very basic calculator which shows a good implementation of data structures and loops. I have made this to make best use of memeory and hence reduce the garbage at the end of the program execution.
+Feel free to us e the code for your own projects. Thank You
